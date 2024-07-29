@@ -1,3 +1,5 @@
 Installation
-```pip install phonlp
-pip install py_vncorenlp```
+```
+pip install phonlp
+pip install py_vncorenlp
+```
